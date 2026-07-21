@@ -6,30 +6,30 @@
 📚 Learning and building projects step by step  
 
 ## Skills
-C++
-Problem Solving
-Algorithms
-Command-Line Application Development
-Modular Programming
-Function Design and Implementation
-Input Validation
-Conditional Logic
-Switch-Case Statements
-Looping and Iteration
-Random Number Generation
-String Manipulation
-Data Structures (Structs)
-Enumerations (Enums)
-Boolean Logic
-Console Output Formatting
-Game Logic
-State Management
-Score Tracking
-User Input Handling
-Decision Making
-Basic AI Simulation
-Debugging
-Code Reusability
+• C++
+• Problem Solving
+• Algorithms
+• Command-Line Application Development
+• Modular Programming
+• Function Design and Implementation
+• Input Validation
+• Conditional Logic
+• Switch-Case Statements
+• Looping and Iteration
+• Random Number Generation
+• String Manipulation
+• Data Structures (Structs)
+• Enumerations (Enums)
+• Boolean Logic
+• Console Output Formatting
+• Game Logic
+• State Management
+• Score Tracking
+• User Input Handling
+• Decision Making
+• Basic AI Simulation
+• Debugging
+• Code Reusability
 
 
 ## 🎯 Goals
